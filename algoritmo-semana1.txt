@@ -1,0 +1,6 @@
+1.	buscar la información
+2.	revisar la fuente
+3.	confirmar la noticia
+4.	revisar la fecha de publicación
+5.	analizar si compartir la información aporta valor
+6.	compartir el contenido citando la fuente original
